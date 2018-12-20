@@ -22,3 +22,8 @@ demo3 - gdal_translate.py
 can be used to convert imagery format (between tif and grib2)
 
 
+demo4 - 
+
+can be used to make restful call to  Image Server to mask,clip,colormap,stretch your image service in a chain, in order to customize your image service result according to your AOI and rendering requirements.
+
+
