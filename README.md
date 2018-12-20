@@ -8,6 +8,7 @@ main method is to call and process restful interface.
 
 can be used to interact with ArcGIS Geoanalytics Server.
 
+---------------------------------------------------------------------------------------------------------------------------------
 
 demo2 - RA_gpservice_interpolatepoints.py
 
@@ -17,10 +18,13 @@ main method is to call and process restful interface.
 
 can be used to interact with ArcGIS Image Server.
 
+---------------------------------------------------------------------------------------------------------------------------------
+
 demo3 - gdal_translate.py
 
 can be used to convert imagery format (between tif and grib2)
 
+---------------------------------------------------------------------------------------------------------------------------------
 
 demo4 - rasterchain.py
 
