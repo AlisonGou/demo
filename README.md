@@ -17,4 +17,8 @@ main method is to call and process restful interface.
 
 can be used to interact with ArcGIS Image Server.
 
+demo3 - gdal_translate.py
+
+can be used to convert imagery format (between tif and grib2)
+
 
