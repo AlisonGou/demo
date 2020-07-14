@@ -1,4 +1,4 @@
-# demo
+# demo introduction
 
 demo1 - GA_gpservice_copytodatastore.py
 
